@@ -1,2 +1,2 @@
 # Lab
- Welcoe to Founder's Lab, this is where things are tested
+ Welcome to Founder's Lab, this is where things are tested
